@@ -1,0 +1,35 @@
+<resources>
+    <string name="valor_inicial">Valor actual: <b>--</b></string>
+    <string name="valor_actual_html">Valor actual: &lt;b&gt;%1$s&lt;/b&gt; lx&lt;br/&gt;%2$s</string>
+    <string name="lectura_guardada">Lectura guardada</string>
+    <string name="error_guardar">Error al guardar</string>
+    <string name="sensor_no_disponible">No hay sensor de luz disponible.</string>
+    <string name="oscuridad_total">Oscuridad total 🌑</string>
+    <string name="oscuro">Oscuro 🌙</string>
+    <string name="tenue">Tenue 🌥️</string>
+    <string name="normal">Normal ☀️</string>
+    <string name="muy_brilante">Muy brillante 🌞</string>
+    <string name="demasiada_luz">Demasiada luz 🔥</string>
+    <string name="app_name">LuxApp</string>
+    <string name="uploading_data">Enviando datos…</string>
+    <string name="preparing_upload">Preparando envío</string>
+    <string name="upload_progress">Progreso: %d%%</string>
+    <string name="upload_success">Envío completado ✅</string>
+    <string name="upload_success_detail">Los datos fueron enviados correctamente</string>
+    <string name="upload_error">Error al enviar ❌</string>
+    <string name="upload_error_detail">No se pudieron enviar los datos</string>
+    <string name="unexpected_error">Ocurrió un error inesperado</string>
+    <string name="upload_service_channel">Upload Service</string>
+    <string name="upload_service_description">Notificaciones del servicio de envío de datos</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_historial">Ver Historial</string>
+    <string name="registros_guardados">Registros Guardados</string>
+    <string name="enviar_registros">Enviar registros</string>
+    <string name="sensor_de_luz">SENSOR DE LUZ</string>
+    <string name="valor_ejemplo">120 lx</string>
+    <string name="fecha_ejemplo">12/10/2025 14:30:00</string>
+
+
+
+
+</resources>
